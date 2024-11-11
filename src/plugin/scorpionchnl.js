@@ -20030,19 +20030,19 @@ const alive = async (m, Matrix) => {
 ┗
 ┏
 ┃『ᴡᴀ ᴄʜᴀɴɴᴇʟ』
-┃❑ https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+┃❑ https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx
 ┗
 ┏
 ┃『ᴡᴀ ɢʀᴏᴜᴘ 』
-┃❐ https://chat.whatsapp.com/GxlcVwkXrPo2YwNoQI5TwS
+┃❐ https://chat.whatsapp.com/GufiUEQ7Jj1D2kszcZqOgx
 ┗
 ┏
 ┃『ʏᴏᴜ ᴛᴜʙᴇ 』
-┃❐https://youtube.com/@joeltech255?si=rqhYlAhFtqK7CVX2
+┃❐https://youtube.com/@herokuplatform?si=rqhYlAhFtqK7CVX2
 ┗
 ┏
 ┃『ᴛɪᴋᴛᴏᴋ 』
-┃❐https://www.tiktok.com/@joeljamestech
+┃❐https://www.tiktok.com/@Abdallahsalim
 ┗━━━━━━━━━━━━━━━━━━❑
 ᴋᴇᴇᴘ ᴜsɪɴɢ ᴊᴏᴇʟ ᴍᴅ ʙᴏᴛ`;
     
@@ -20092,8 +20092,8 @@ const alive = async (m, Matrix) => {
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '255714595078@s.whatsapp.net',
-                newsletterName: "JOel",
+                newsletterJid: '255716945971@s.whatsapp.net',
+                newsletterName: "Scorpion",
                 serverMessageId: 143
               }
             }
