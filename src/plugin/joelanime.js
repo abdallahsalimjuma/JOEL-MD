@@ -11,15 +11,15 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     const end = new Date().getTime();
     const responseTime = (end - start) / 1000;
 
-    const text = `┏━❐ 𝙹𝙾𝚎𝚕 𝚖𝚍 𝚟𝟼 ❑
-┃✰𝚋𝚘𝚝 𝚗𝚊𝚖𝚎:*𝙹𝙾𝚎𝚕 𝚋𝚘𝚝*
+    const text = `┏━❐ SCORPION MD V3 ❑
+┃✰𝚋𝚘𝚝 𝚗𝚊𝚖𝚎:*Scorpion Md*
 ╽✰𝚟𝚒𝚜𝚒𝚘𝚗: *𝟼.𝟶.𝟶*
-┃✰𝚘𝚠𝚗𝚎𝚛: *𝙹𝙾𝚎𝚕*    
+┃✰𝚘𝚠𝚗𝚎𝚛: *Scorpion*    
 ┃✰𝚜𝚝𝚊𝚝𝚞𝚜:*𝚋𝚘𝚝 𝚒𝚜 𝚘𝚗𝚕𝚒𝚗𝚎*
 ┃✰𝚙𝚕𝚊𝚝𝚒𝚏𝚘𝚛𝚖: *𝙻𝚒𝚗𝚞𝚡*
 ┃✰𝚖𝚘de : *public*
 ┃✰𝚙𝚛𝚎𝚏𝚒𝚡: [.]
-┃✰𝚝𝚑𝚎𝚖𝚎:*𝙹𝙾𝚎𝚕 𝚃𝚎𝚌𝚑*
+┃✰𝚝𝚑𝚎𝚖𝚎:*SCORPION MD*
 ┃✰𝙻𝚒𝚋𝚛𝚊𝚛𝚢:*𝚋𝚊𝚒𝚕𝚠𝚊𝚢𝚜*
 ┗❑
 ┏❐ 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝚁
@@ -121,9 +121,9 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
 ┃✰ .𝙸𝚗𝚜𝚝𝚊𝚂𝚝𝚊𝚕𝚔
 ┃✰ .𝙶𝚒𝚝𝚑𝚞𝚋𝚂𝚝𝚊𝚕𝚔
 ╰❐
-https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M
+https://whatsapp.com/channel/GufiUEQ7Jj1D2kszcZqOgx
   
-𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙹𝙾𝚎𝚕 𝚔𝚊𝚗𝚐'𝚘𝚖𝚊`;
+𝚙𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 Scorpion Md v3`;
     sock.sendMessage(m.from, { text }, { quoted: m });
   }
 }
