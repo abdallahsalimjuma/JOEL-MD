@@ -24139,7 +24139,7 @@ const fetchMp3 = async _0x2eabb7 => {
         if (_0x257d16.progress === 1000) {
           _0x114d10({
             'type': "mp3 (128 kbps)",
-            'title': "*©Ibrahim Adams",
+            'title': "*©Dullah md",
             'image': _0x34ced7,
             'download_url': _0x257d16.download_url
           });
@@ -24174,7 +24174,7 @@ const fetchMp4 = async _0x5bf28b => {
         if (_0x206cae.progress === 1000) {
           _0x288ade({
             'type': "mp4 (480p)",
-            'title': "*©Ibrahim Adams*",
+            'title': "*©Dullah Md*",
             'image': _0x3f0a00,
             'download_url': _0x206cae.download_url
           });
@@ -24266,7 +24266,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
         deviceListMetadataVersion: 0x2
       };
       const _0x41cbb0 = {
-        text: "*BMW MD DOWNLOADER*\n\n> *TITLE:* " + _0x319d2.title + "\n> *AUTHOR:* " + _0x319d2.author.name + "\n> *VIEWS:* " + _0x319d2.views + "\n> *DURATION:* " + _0x319d2.timestamp + "\n> *YTLINK:* " + _0x487953 + "\n"
+        text: "*SCORPION MD DOWNLOADER*\n\n> *TITLE:* " + _0x319d2.title + "\n> *AUTHOR:* " + _0x319d2.author.name + "\n> *VIEWS:* " + _0x319d2.views + "\n> *DURATION:* " + _0x319d2.timestamp + "\n> *YTLINK:* " + _0x487953 + "\n"
       };
       const _0x16c73f = {
         url: _0x3d1f37
@@ -24287,7 +24287,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
             'interactiveMessage': proto.Message.InteractiveMessage.create({
               'body': proto.Message.InteractiveMessage.Body.create(_0x41cbb0),
               'footer': proto.Message.InteractiveMessage.Footer.create({
-                'text': "*©Ibrahim Adams*"
+                'text': "*©Dullah Md*"
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia(_0x405e9c, _0x3777a8)),
@@ -24358,7 +24358,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
             const _0x18c6f5 = {
               video: _0x269d5b,
               mimetype: "video/mp4",
-              caption: "> TITLE: " + _0x2ece3c.title + "\n\n*©Ibrahim Adams*"
+              caption: "> TITLE: " + _0x2ece3c.title + "\n\n*©Dullah Md*"
             };
             _0x4f7bc3 = _0x18c6f5;
             await _0x1107b4.sendMessage(_0x3a4726.from, _0x4f7bc3, {
@@ -24372,7 +24372,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
                 document: _0x269d5b,
                 mimetype: "audio/mpeg",
                 fileName: _0x2ece3c.title + ".mp3",
-                caption: "> TITLE: " + _0x2ece3c.title + "\n\n*©Ibrahim Adams*"
+                caption: "> TITLE: " + _0x2ece3c.title + "\n\n*©Dullah Md*"
               };
               _0x4f7bc3 = _0x418a78;
               await _0x1107b4.sendMessage(_0x3a4726.from, _0x4f7bc3, {
@@ -24386,7 +24386,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
                   document: _0x269d5b,
                   mimetype: "video/mp4",
                   fileName: _0x2ece3c.title + ".mp4",
-                  caption: "> TITLE: " + _0x2ece3c.title + "\n\n*©Ibrahim Adams*"
+                  caption: "> TITLE: " + _0x2ece3c.title + "\n\n*©Dullah Md*"
                 };
                 _0x4f7bc3 = _0x442e2e;
                 await _0x1107b4.sendMessage(_0x3a4726.from, _0x4f7bc3, {
@@ -24446,7 +24446,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
           deviceListMetadataVersion: 0x2
         };
         const _0x28b802 = {
-          text: "*JOEL MD YOUTUBE SEARCH*\n\n> *TITLE:* " + _0x374253.title + "\n> *AUTHOR:* " + _0x374253.author.name + "\n> *VIEWS:* " + _0x374253.views + "\n> *DURATION:* " + _0x374253.timestamp + "\n> *YTLINK:* " + _0x15869d + "\n"
+          text: "*SCORPION MD YOUTUBE SEARCH*\n\n> *TITLE:* " + _0x374253.title + "\n> *AUTHOR:* " + _0x374253.author.name + "\n> *VIEWS:* " + _0x374253.views + "\n> *DURATION:* " + _0x374253.timestamp + "\n> *YTLINK:* " + _0x15869d + "\n"
         };
         const _0x418798 = {
           url: _0x227e01
@@ -24467,7 +24467,7 @@ const playcommand = async (_0x3a4726, _0x1107b4) => {
               'interactiveMessage': proto.Message.InteractiveMessage.create({
                 'body': proto.Message.InteractiveMessage.Body.create(_0x28b802),
                 'footer': proto.Message.InteractiveMessage.Footer.create({
-                  'text': "*©Ibrahim Adams*"
+                  'text': "*©Dullah Md*"
                 }),
                 'header': proto.Message.InteractiveMessage.Header.create({
                   ...(await prepareWAMessageMedia(_0x272c66, _0x4d27bd)),
